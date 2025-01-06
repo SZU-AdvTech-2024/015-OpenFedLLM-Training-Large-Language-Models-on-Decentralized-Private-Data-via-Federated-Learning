@@ -1,16 +1,7 @@
 @inproceedings{REPO015,
     author = "Ye, Rui and Wang, Wenhao and Chai, Jingyi and Li, Dihan and Li, Zexi and Xu, Yinda and Du, Yaxin and Wang, Yanfeng and Chen, Siheng",
-    address = "New York, NY, USA",
-    booktitle = "Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
-    doi = "10.1145/3637528.3671582",
-    isbn = "9798400704901",
-    keywords = "federated learning, instruction tuning, large language models, value alignment",
-    location = "Barcelona, Spain",
-    numpages = "11",
     pages = "6137–6147",
-    publisher = "Association for Computing Machinery",
     series = "KDD '24",
     title = "{OpenFedLLM: Training Large Language Models on Decentralized Private Data via Federated Learning}",
-    url = "https://doi.org/10.1145/3637528.3671582",
     year = "2024"
 }
